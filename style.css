@@ -75,11 +75,18 @@ li a:hover{
 
 a{
     text-decoration: none;
-    color: black;
+    color: white;
     text-align: center;
     font-size: 20px;
     margin: auto;
+    background-color: black;
+    width: 200px;
+    height: 150px;
+    transition: background-color 0.2s;
+}
 
+a:hover{
+    background-color: grey;
 }
 
 button{
@@ -89,5 +96,5 @@ button{
 }
 
 .paragrafo{
-    margin-left: 10px;
+    margin-left: 30px;
 }
