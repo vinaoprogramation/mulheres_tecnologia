@@ -27,8 +27,10 @@ body {
 }
 
 p {
-    
-}
+    font-family: "Stack Sans Text", sans-serif;
+    color: black;
+    font-size: 15px;
+}   
 
 .imgcentro {
 
