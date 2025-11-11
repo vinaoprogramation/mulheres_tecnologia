@@ -18,6 +18,8 @@ body {
     gap: 30%;
     font-weight: bold;
     font-style: italic;
+    font-family: "Stack Sans Text", sans-serif;
+
 }
 
 #titulo {
