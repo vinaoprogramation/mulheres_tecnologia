@@ -81,7 +81,7 @@ li a:hover{
     margin: auto;
     background-color: black;
     transition: background-color 0.2s;
-    padding: 50px;
+    padding: 40px;
 }
 
 .voltar:hover{
@@ -94,6 +94,7 @@ li a:hover{
 }
 
 .fim{
+    margin-top: 40px;
     width: 100%;
     text-align: center;
 }
