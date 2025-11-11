@@ -98,3 +98,12 @@ li a:hover{
     width: 100%;
     text-align: center;
 }
+
+main{
+    text-align: center;
+}
+
+main img{
+    width: 200px;
+    border-radius: 100%;
+}
