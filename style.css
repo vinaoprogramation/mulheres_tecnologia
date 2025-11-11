@@ -3,6 +3,7 @@ body {
     font-family: "Stack Sans Text", sans-serif;
 }
 @import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Notch:wght@200..700&family=Stack+Sans+Text:wght@200..700&display=swap');
 
 .cabecalho{
     background-color: black;
@@ -54,6 +55,7 @@ li a{
     color: black;
     text-shadow: none;
     transition: text-shadow 0.2s;
+    font-family: "Stack Sans Text", sans-serif;
 
 }
 
