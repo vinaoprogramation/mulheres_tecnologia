@@ -29,6 +29,7 @@ p {
     color: black;
     font-size: 27px;
     width: 80%;
+    margin: auto;
 }   
 
 .imagem{
@@ -78,7 +79,7 @@ a{
     color: black;
     text-align: center;
     font-size: 20px;
-    
+
 }
 
 button{
