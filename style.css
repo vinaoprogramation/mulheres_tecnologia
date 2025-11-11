@@ -73,7 +73,7 @@ li a:hover{
     text-shadow: 0 0 20px black;
 }
 
-.botao{
+.voltar{
     text-decoration: none;
     color: white;
     text-align: center;
@@ -85,15 +85,10 @@ li a:hover{
     transition: background-color 0.2s;
 }
 
-.botao:hover:hover{
+.voltar:hover{
     background-color: grey;
 }
 
-button{
-    font-size: 16px;
-    color: rgb(255, 0, 132);
-
-}
 
 .paragrafo{
     margin-left: 30px;
