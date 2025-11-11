@@ -33,8 +33,7 @@ p {
 .imagem{
     text-align: center;
     width: fit-content;
-    margin: auto;
-    margin-top: 20px auto 10px 0;
+    margin: 20px auto 10px;
 }
 
 img{
