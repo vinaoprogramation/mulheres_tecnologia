@@ -28,8 +28,7 @@ p {
     font-family: "Stack Sans Text", sans-serif;
     color: black;
     font-size: 27px;
-    width: 80%;
-    margin: auto;
+    padding: 0 50px;
 }   
 
 .imagem{
