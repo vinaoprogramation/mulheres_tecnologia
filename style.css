@@ -39,7 +39,14 @@ li{
 
 li a{
     font-size: 50px;
-    
+    text-decoration: none;
+    color: black;
+    transition: background-color 0.2s;
+
+}
+
+li a:hover{
+    background-color: grey;
 }
 
 button{
