@@ -152,6 +152,10 @@ main p{
     main ul li img{
         width: 200px;
     }
+
+    main ul li p{
+        font-size: 15px;
+    }
     
 }
 
