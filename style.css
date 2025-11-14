@@ -120,3 +120,8 @@ main img:hover{
     justify-content: center;
     gap: 100px;
 }
+
+main p{
+    text-align: center;
+    font-size: 40px;
+}
