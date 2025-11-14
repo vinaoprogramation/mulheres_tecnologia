@@ -237,6 +237,10 @@ main p{
         width: 100%;
     }
 
+    #margareth p{
+        margin-left: -10px;
+    }
+
     main ul{
         display: flex;
         flex-direction: column;
