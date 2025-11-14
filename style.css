@@ -149,6 +149,10 @@ main p{
         font-size: 20px;
     }
 
+    main{
+        max-width: 500px;
+    }
+
     ul{
         flex-direction: column;
     }
