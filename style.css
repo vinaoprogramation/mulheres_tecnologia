@@ -103,7 +103,7 @@ main{
 }
 
 main img{
-    width: 200px;
+    width: 300px;
     border-radius: 100%;
     opacity: 1;
     transition: opacity 0.5s;
@@ -125,3 +125,6 @@ main p{
     text-align: center;
     font-size: 40px;
 }
+
+
+@media screen and (max-width: 768px) {
