@@ -148,7 +148,7 @@ main p{
         flex-direction: column;
     }
 
-    main ul li{
+    main ul a{
         width: 300px;
     }
     
