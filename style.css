@@ -282,6 +282,10 @@ main p {
         width: 100%;
     }
 
+    .cabecalho{
+        font-size: 50px;
+    }
+
     #margareth p {
         margin-left: -30px;
     }
