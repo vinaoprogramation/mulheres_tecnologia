@@ -146,10 +146,11 @@ main p{
     main ul{
         display: flex;
         flex-direction: column;
+        width: 300px;
     }
 
-    main ul a{
-        width: 300px;
+    main ul li img{
+        width: 200px;
     }
     
 }
