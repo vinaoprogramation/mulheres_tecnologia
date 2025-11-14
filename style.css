@@ -147,5 +147,7 @@ main p{
     ul img{
         width: 30px;
     }
-
+    main li p{
+        font-size: 5px;
+    }
 }
