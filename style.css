@@ -147,6 +147,10 @@ main p{
         display: flex;
         flex-direction: column;
     }
+
+    main ul li{
+        width: 300px;
+    }
     
 }
 
