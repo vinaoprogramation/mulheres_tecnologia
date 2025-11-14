@@ -257,7 +257,7 @@ main p {
     main ul {
         display: flex;
         flex-direction: column;
-        width: 60%;
+        width: 70%;
     }
 
     main ul li img {
@@ -276,3 +276,33 @@ main p {
 
 
 }
+
+@media (max-width: 200px) {
+    main {
+        width: 100%;
+    }
+
+    #margareth p {
+        margin-left: -30px;
+    }
+
+    main ul {
+        display: flex;
+        flex-direction: column;
+        width: 51%;
+    }
+
+    main ul li img {
+        width: 100%;
+    }
+
+    main ul li p {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    body {
+        box-sizing: border-box;
+        width: 100%;
+    }
+
