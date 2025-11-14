@@ -129,7 +129,7 @@ main p{
 }
 
 
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
     p{
         font-size: 15px;
     }
@@ -163,17 +163,4 @@ main p{
         box-sizing: border-box;
     }
     
-}
-
-@media screen and (max-width: 1020px) {
-        main ul{
-        display: flex;
-        flex-direction: column;
-        width: 800px;
-    }
-
-     main ul li img{
-        width: 800px;
-    }
-
 }
