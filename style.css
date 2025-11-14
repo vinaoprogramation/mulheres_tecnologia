@@ -1,7 +1,9 @@
 body { 
     background-color: white;
     font-family: "Stack Sans Text", sans-serif;
+    box-sizing: border-box;
 }
+
 
 .cabecalho{
     background-color: black;
@@ -163,7 +165,11 @@ main p{
     
 }
 
-@media screen and (max-width: 500px) {
-    
-    
+@media screen and (max-width: 1020px) {
+        main ul{
+        display: flex;
+        flex-direction: column;
+        width: 800px;
+    }
+
 }
