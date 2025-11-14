@@ -156,6 +156,10 @@ main p{
     main ul li p{
         font-size: 15px;
     }
+
+    body{
+        box-sizing: border-box;
+    }
     
 }
 
