@@ -103,7 +103,7 @@ main{
 }
 
 main img{
-    width: 300px;
+    width: 200px;
     border-radius: 100%;
     opacity: 1;
     transition: opacity 0.5s;
