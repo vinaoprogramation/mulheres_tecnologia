@@ -133,14 +133,14 @@ main p{
     }
 
     .cabecalho{
-        font-size: 40px;
+        font-size: 30px;
     }
 
     img{
         width: 200px;
     }
     main{
-        width: 500px;
+        width: 100vw;
     }
 
     main ul{
@@ -150,16 +150,15 @@ main p{
     }
 
     main ul li img{
-        width: 200px;
+        width: 300px;
     }
 
     main ul li p{
-
+        font-size: 15px;
     }
-    
-}
 
-@media screen and (max-width: 500px) {
-    
+    body{
+        box-sizing: border-box;
+    }
     
 }
