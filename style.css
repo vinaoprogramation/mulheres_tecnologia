@@ -128,7 +128,7 @@ main p{
 
 
 @media screen and (max-width: 1000px) {
-    p{
-        font-size: -30%;
+    *{
+        font-size: -15px;
     }
 }
