@@ -140,17 +140,17 @@ main p{
         width: 200px;
     }
     main{
-        width: 100vw;
+        width: 100%;
     }
 
     main ul{
         display: flex;
         flex-direction: column;
-        width: 80vw;
+        width: 80%;
     }
 
     main ul li img{
-        width: 80vw;
+        width: 100%;
     }
 
     main ul li p{
@@ -159,6 +159,7 @@ main p{
 
     body{
         box-sizing: border-box;
+        width: 100%;
     }
     
 }
