@@ -1,9 +1,9 @@
-body { 
+body {
     background-color: white;
     font-family: "Stack Sans Text", sans-serif;
 }
 
-.cabecalho{
+.cabecalho {
     background-color: black;
     color: whitesmoke;
     padding-top: 30px;
@@ -20,40 +20,36 @@ body {
 
 }
 
-.titulo {
-
-}
+.titulo {}
 
 p {
     font-family: "Stack Sans Text", sans-serif;
     color: black;
     font-size: 27px;
     padding: 0 50px;
-}   
+}
 
-.imagem{
+.imagem {
     text-align: center;
     width: fit-content;
     margin: 20px auto 10px;
 }
 
-img{
+img {
     width: 300px;
 }
 
 
-nav{
+nav {}
 
-}
-
-ul{
+ul {
     display: flex;
     justify-content: center;
     gap: 50px;
     margin-top: 30px;
 }
 
-li{
+li {
     display: inline-block;
     font-size: 50px;
     text-decoration: none;
@@ -65,11 +61,11 @@ li{
 }
 
 
-li a:hover{
+li a:hover {
     text-shadow: 0 0 20px black;
 }
 
-.voltar{
+.voltar {
     text-decoration: none;
     color: white;
     text-align: center;
@@ -80,185 +76,203 @@ li a:hover{
     padding: 20px;
 }
 
-.voltar:hover{
+.voltar:hover {
     background-color: grey;
 }
 
 
-.paragrafo{
+.paragrafo {
     margin-left: 70px;
 }
 
-.fim{
+.fim {
     margin-top: 70px;
     width: 100%;
     text-align: center;
 }
 
-main{
+main {
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 100px;
 }
 
-main img{
+main img {
     width: 300px;
     border-radius: 100%;
     opacity: 1;
     transition: opacity 0.5s;
 }
 
-main img:hover{
+main img:hover {
     opacity: 0.7;
     cursor: pointer;
 }
 
-main ul{
+main ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 100px;
 }
 
-main p{
+main p {
     text-align: center;
     font-size: 40px;
 }
 
 
 @media (max-width: 500px) {
-    p{
+
+    #margareth p {
+        margin-left: -30px;
+    }
+
+    p {
         font-size: 15px;
     }
 
-    .cabecalho{
+    .cabecalho {
         font-size: 30px;
     }
 
-    img{
+    img {
         width: 200px;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
-    main ul{
+    main ul {
         display: flex;
         flex-direction: column;
         width: 80%;
     }
 
-    main ul li img{
+    main ul li img {
         width: 100%;
     }
 
-    main ul li p{
+    main ul li p {
         font-size: 18px;
     }
 
-    body{
+    body {
         box-sizing: border-box;
         width: 100%;
     }
-    
+
 }
 
 @media (max-width: 700px) {
-    p{
+
+    #margareth p {
+        margin-left: -30px;
+    }
+
+    p {
         font-size: 15px;
     }
 
-    .cabecalho{
+    .cabecalho {
         font-size: 40px;
     }
 
-    img{
+    img {
         width: 200px;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
-    main ul{
+    main ul {
         display: flex;
         flex-direction: column;
         width: 65%;
     }
 
-    main ul li img{
+    main ul li img {
         width: 100%;
     }
 
-    main ul li p{
+    main ul li p {
         font-size: 25px;
     }
 
-    body{
+    body {
         box-sizing: border-box;
         width: 100%;
     }
-    
+
 }
 
-@media (max-width: 1000px){
-    main{
+@media (max-width: 1000px) {
+    #margareth p {
+        margin-left: -30px;
+    }
+
+    main {
         width: 100%;
     }
 
-    .cabecalho{
+    .cabecalho {
         font-size: 50px;
     }
 
-    main ul{
+    main ul {
         display: flex;
         flex-direction: column;
         width: 65%;
     }
-     main ul li img{
+
+    main ul li img {
         width: 100%;
     }
 
-     main ul li p{
+    main ul li p {
         font-size: 40px;
         text-align: center;
     }
 
-    body{
+    body {
         box-sizing: border-box;
         width: 100%;
     }
 
-    
+
 }
 
-@media (max-width: 1500px){
-    main{
+@media (max-width: 1500px) {
+    main {
         width: 100%;
     }
 
-    #margareth p{
-        margin-left: -10px;
+    #margareth p {
+        margin-left: -30px;
     }
 
-    main ul{
+    main ul {
         display: flex;
         flex-direction: column;
         width: 65%;
     }
-     main ul li img{
+
+    main ul li img {
         width: 100%;
     }
 
-     main ul li p{
+    main ul li p {
         font-size: 50px;
         text-align: center;
     }
 
-    body{
+    body {
         box-sizing: border-box;
         width: 100%;
     }
 
-    
+
 }
