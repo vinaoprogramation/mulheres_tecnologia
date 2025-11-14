@@ -145,9 +145,9 @@ main p{
         gap: 0;
     }
     ul img{
-        width: 30px;
+        width: 100'px;
     }
     main li p{
-        font-size: 5px;
+        font-size: 10px;
     }
 }
