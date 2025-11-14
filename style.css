@@ -105,6 +105,12 @@ main{
 main img{
     width: 200px;
     border-radius: 100%;
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+
+main img:hover{
+    opacity: 0.5;
 }
 
 menu ul{
