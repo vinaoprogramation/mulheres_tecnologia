@@ -141,15 +141,14 @@ main p{
     li{
         width: 200px;
     }
-    main ul{
-        gap: 0;
-    }
+
     ul img{
         width: 80px;
     }
     main li p{
         font-size: 20px;
     }
+    
     main{
         flex-direction: column;
     }
