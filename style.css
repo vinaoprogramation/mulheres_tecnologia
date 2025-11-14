@@ -172,9 +172,13 @@ main p{
     main ul{
         display: flex;
         flex-direction: column;
-        width: 80%;
+        width: 65%;
     }
      main ul li img{
         width: 100%;
+    }
+
+     main ul li p{
+        font-size: 35px;
     }
 }
