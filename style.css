@@ -174,4 +174,7 @@ main p{
         flex-direction: column;
         width: 80%;
     }
+     main ul li img{
+        width: 100%;
+    }
 }
