@@ -305,18 +305,6 @@ main p {
         box-sizing: border-box;
         width: 100%;
     }
-
-    p {
-        font-size: 70px;
-    }
-
-    .cabecalho {
-        font-size: 100px;
-    }
-
-    img {
-        width: 1000px;
-    }
-
+    
 
 }
