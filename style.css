@@ -277,7 +277,7 @@ main p {
 
 }
 
-@media (max-width: 200px) {
+@media (max-width: 2000px) {
     main {
         width: 100%;
     }
@@ -306,3 +306,4 @@ main p {
         width: 100%;
     }
 
+}
