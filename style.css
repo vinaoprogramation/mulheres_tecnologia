@@ -146,15 +146,15 @@ main p{
     main ul{
         display: flex;
         flex-direction: column;
-        width: 300px;
+        width: 80vw;
     }
 
     main ul li img{
-        width: 300px;
+        width: 80vw;
     }
 
     main ul li p{
-        font-size: 15px;
+        font-size: 25px;
     }
 
     body{
