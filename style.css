@@ -142,7 +142,7 @@ main p{
         width: 200px;
     }
     main ul{
-        gap: o;
+        gap: 0;
     }
     ul img{
         width: 30px;
