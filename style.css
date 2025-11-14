@@ -164,6 +164,43 @@ main p{
     
 }
 
+@media screen and (max-width: 700px) {
+    p{
+        font-size: 15px;
+    }
+
+    .cabecalho{
+        font-size: 30px;
+    }
+
+    img{
+        width: 200px;
+    }
+    main{
+        width: 100%;
+    }
+
+    main ul{
+        display: flex;
+        flex-direction: column;
+        width: 65%;
+    }
+
+    main ul li img{
+        width: 100%;
+    }
+
+    main ul li p{
+        font-size: 25px;
+    }
+
+    body{
+        box-sizing: border-box;
+        width: 100%;
+    }
+    
+}
+
 @media screen and (max-width: 1000px){
     main{
         width: 100%;
