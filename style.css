@@ -207,6 +207,18 @@ main p {
         width: 100%;
     }
 
+     p {
+        font-size: 15px;
+    }
+
+    .cabecalho {
+        font-size: 30px;
+    }
+
+    img {
+        width: 200px;
+    }
+
 }
 
 @media (max-width: 1000px) {
@@ -242,6 +254,18 @@ main p {
         width: 100%;
     }
 
+     p {
+        font-size: 15px;
+    }
+
+    .cabecalho {
+        font-size: 30px;
+    }
+
+    img {
+        width: 200px;
+    }
+
 
 }
 
@@ -272,6 +296,18 @@ main p {
     body {
         box-sizing: border-box;
         width: 100%;
+    }
+
+     p {
+        font-size: 15px;
+    }
+
+    .cabecalho {
+        font-size: 30px;
+    }
+
+    img {
+        width: 200px;
     }
 
 
@@ -306,5 +342,16 @@ main p {
         width: 100%;
     }
     
+     p {
+        font-size: 15px;
+    }
+
+    .cabecalho {
+        font-size: 30px;
+    }
+
+    img {
+        width: 200px;
+    }
 
 }
