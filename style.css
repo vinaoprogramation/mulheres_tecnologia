@@ -257,7 +257,7 @@ main p {
     main ul {
         display: flex;
         flex-direction: column;
-        width: 65%;
+        width: 51%;
     }
 
     main ul li img {
