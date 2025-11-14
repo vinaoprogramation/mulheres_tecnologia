@@ -140,7 +140,7 @@ main p{
         width: 200px;
     }
     main{
-        width: 500px;
+        width: 100vw;
     }
 
     main ul{
