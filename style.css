@@ -113,7 +113,7 @@ main img:hover{
     opacity: 0.5;
 }
 
-menu ul{
+.menu ul{
     display: flex;
     flex-direction: row;
     justify-content: center;
