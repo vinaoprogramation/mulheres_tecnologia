@@ -100,8 +100,6 @@ main{
     flex-direction: row;
     justify-content: center;
     gap: 100px;
-    box-sizing: border-box;
-    width: 100vw;
 }
 
 main img{
@@ -138,4 +136,8 @@ main p{
         font-size: 40px;
     }
 
+    img{
+        width: 200px;
+    }
+    
 }
