@@ -306,4 +306,17 @@ main p {
         width: 100%;
     }
 
+    p {
+        font-size: 30px;
+    }
+
+    .cabecalho {
+        font-size: 30px;
+    }
+
+    img {
+        width: 500px;
+    }
+
+
 }
