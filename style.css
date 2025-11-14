@@ -111,6 +111,7 @@ main img{
 
 main img:hover{
     opacity: 0.5;
+    cursor: pointer;
 }
 
 .menu ul{
