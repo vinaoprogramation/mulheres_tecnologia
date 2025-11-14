@@ -128,7 +128,15 @@ main p{
 
 
 @media screen and (max-width: 1000px) {
-    *{
-        font-size: -15px;
+    p{
+        font-size: 15px;
+    }
+
+    .cabecalho{
+        font-size: 40px;
+    }
+
+    img{
+        width: 200px;
     }
 }
