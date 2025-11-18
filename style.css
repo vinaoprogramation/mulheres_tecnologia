@@ -245,7 +245,7 @@ main p {
 
 }
 
-@media (max-width: 1500px) {
+@media (min-width: 1200px) and (max-width: 1500px){
     main {
         width: 100%;
     }
