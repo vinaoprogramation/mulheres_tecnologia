@@ -166,7 +166,7 @@ main p {
 
 }
 
-@media (max-width: 700px) {
+@media (min-width: 700px) {
 
     #margareth p {
         margin-left: -30px;
