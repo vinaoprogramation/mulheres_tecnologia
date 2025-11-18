@@ -209,7 +209,7 @@ main p {
 
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 9000px) {
     #margareth p {
         margin-left: -30px;
     }
