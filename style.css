@@ -277,38 +277,3 @@ main p {
 
 }
 
-@media (max-width: 2000px) {
-    main {
-        width: 100%;
-    }
-
-    .cabecalho{
-        font-size: 50px;
-    }
-
-    #margareth p {
-        margin-left: -30px;
-    }
-
-    main ul {
-        display: flex;
-        flex-direction: column;
-        width: 51%;
-    }
-
-    main ul li img {
-        width: 100%;
-    }
-
-    main ul li p {
-        font-size: 50px;
-        text-align: center;
-    }
-
-    body {
-        box-sizing: border-box;
-        width: 100%;
-    }
-    
-
-}
